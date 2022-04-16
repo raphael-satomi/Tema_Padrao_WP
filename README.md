@@ -1,5 +1,6 @@
 # Tema Padrão WP
-Adaptando template simples cleancode para wordpress no curso de wordpress do b7Web <br/><br/>
+<p>Adaptando template simples cleancode para wordpress no curso de wordpress do b7Web</p>
+
 --- 
 
 ## Páginas
